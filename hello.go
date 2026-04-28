@@ -13,3 +13,7 @@ func SayHello() {
 func PrintHelloVersion() {
 	fmt.Println("V3")
 }
+
+func SayHelloTo(s string) {
+	fmt.Printf("Hi %s, nice to meet you!", s)
+}
