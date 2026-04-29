@@ -11,7 +11,7 @@ func SayHello() {
 }
 
 func PrintHelloVersion() {
-	fmt.Println("V3")
+	fmt.Println("V4")
 }
 
 func SayHelloTo(s string) {
